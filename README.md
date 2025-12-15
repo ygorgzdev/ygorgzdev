@@ -36,4 +36,4 @@ Atualmente expandindo conhecimentos em **Engenharia de Software** com foco no ec
 ---
 
 ### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ygzdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](wwww.linkedin.com/in/ygzdev)
